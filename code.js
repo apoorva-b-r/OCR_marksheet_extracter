@@ -1,8 +1,8 @@
 // ============================================================
 // CONFIGURATION
 // ============================================================
-const MAIN_FOLDER_ID    = '1yJM6SmvbDddE1iYkvow-C5-FBZJL79Pc';
-const GOOGLE_CLOUD_API_KEY = 'AIzaSyBWAYkfgkgOBH6EZkIzQurymTr7u7vBD64';
+const MAIN_FOLDER_ID    = 'YOUR_FOLDER_DRIVE_LINK';
+const GOOGLE_CLOUD_API_KEY = 'YOUR_GOOGLE_VISION_API_KEY';
 
 
 // ============================================================
